@@ -1,20 +1,21 @@
 {
   "name": "bt-react-native",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "react-native", "braintree", "payments"
+    "react-native",
+    "braintree",
+    "payments"
   ],
   "author": "Chris Jasper <chrisjasp@gmail.com>",
   "license": "ISC",
-  "repository" :
-  { 
-    "type" : "git", 
-    "url" : "https://github.com/chrisjasp/bt-react-native.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisjasp/bt-react-native.git"
   },
   "peerDependencies": {
     "react-native": "^0.41.2"
